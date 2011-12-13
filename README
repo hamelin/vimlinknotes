@@ -1,0 +1,27 @@
+VimLinkNotes - A Personal Wiki in Vim
+Benoit Hamelin, 2011
+
+WHAT IS IT?
+===========
+
+This is a set of small configuration files that allow the navigation and
+editing of cross-referenced topics dispersed over a collection of
+text files, using Vim and Exuberant ctags. Full information is available at
+
+http://benoithamelin.tumblr.com/vimlinknotes/
+
+INSTALLATION
+============
+
+Run the install.sh script with your own rights (e.g. without using sudo) to
+deploy the configuration files for your own account. System-wide deployment is
+not implemented at the moment.
+
+LICENSE
+=======
+
+This work is licensed under the Creative Commons Attribution 3.0 Unported
+License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
