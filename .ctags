@@ -1,0 +1,3 @@
+--langdef=VimLinkNotes
+--langmap=VimLinkNotes:([Vv]im[Ll]ink[Nn]otes).linknotes.ln
+--regex-VimLinkNotes=/^=>[ \t]*([A-za-z]+)/\1/
